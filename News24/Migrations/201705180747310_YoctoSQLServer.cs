@@ -3,7 +3,7 @@ namespace News24.Migrations
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class InitializeLocalDb : DbMigration
+    public partial class YoctoSQLServer : DbMigration
     {
         public override void Up()
         {
