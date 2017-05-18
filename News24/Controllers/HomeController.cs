@@ -15,7 +15,7 @@ namespace News24.Controllers
 
 		public ActionResult About()
 		{
-			ViewBag.Message = "Website about news";
+			ViewBag.Message = "Website about news.";
 
 			return View();
 		}
