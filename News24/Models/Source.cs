@@ -11,7 +11,7 @@ namespace News24.Models
 		public string Id { get; set; }
 	}
 
-	public partial class Rootobject
+	public class SourceObjects
 	{
 		public Source[] Sources { get; set; }
 	}

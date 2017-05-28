@@ -194,6 +194,8 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="JSON_Methods\LoadArticles.cs" />
+    <Compile Include="JSON_Methods\LoadSources.cs" />
     <Compile Include="Migrations\201705180747310_YoctoSQLServer.cs" />
     <Compile Include="Migrations\201705180747310_YoctoSQLServer.Designer.cs">
       <DependentUpon>201705180747310_YoctoSQLServer.cs</DependentUpon>

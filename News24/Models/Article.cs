@@ -15,7 +15,7 @@ namespace News24.Models
 		public DateTime PublishedAt { get; set; }
 	}
 
-	public partial class Rootobject
+	public class ArticleObjects
 	{
 		public Article[] Articles { get; set; }
 	}
